@@ -1,5 +1,3 @@
-# Григориј Ваљаков 223232
-
 ## Control Flow Graph
 ![CFG_223232](https://github.com/grival900/SI_2024_lab2_223232/assets/138726326/b5c5e4ec-1f35-4955-a0a6-bfe941454456)
 
